@@ -3,8 +3,8 @@
 <p>I am currently studying Frontend developing at Nackademin in Solna, a fun and exciting </br>
   education where I can unleash my curiosity and passion for problem-solving.</p></br>
 
-- 🌱 I’m currently learning **React, Next.js, Typescript**
 - 🔭 I am currently looking for an internship, starting in week 47
+- 🌱 I’m currently learning **React, Next.js, Typescript**
 - 👨‍💻 All of my projects are available at [https://sofiaje.github.io/](https://sofiaje.github.io/)
 
 - 💬 How to reach me **sofia.jespersen@yh.nackademin.se**
