@@ -1,10 +1,11 @@
-<h2 align="left">Hi, I'm Sofia  👋</h1>
-<h4 align="left">A curious and communicative frontend developer who loves everything creative! </h3>
+<img width="1031" alt="Screenshot 2023-10-06 at 10 09 20" src="https://github.com/sofiaje/sofiaje/assets/113875885/5af7ec5e-9c51-415f-ba85-723b1b3c6c04">
+<h3 align="left">A curious and communicative frontend developer who loves everything creative! </h3>
 <p>I am currently studying Frontend developing at Nackademin in Solna, a fun and exciting </br>
   education where I can unleash my curiosity and passion for problem-solving.</p>
   
   > [View portfolio](https://sofiaje.github.io/)
 </br>
+
 
 - 🔭 I am currently looking for an internship, starting in week 47
 - 🌱 Learning **React, Next.js, Typescript**
