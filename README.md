@@ -7,7 +7,6 @@
 </br>
 
 
-- 🔭 I am currently looking for an internship, starting in week 47
 - 🌱 Learning **React, Next.js, Typescript**
 - 👨‍💻 All of my projects are available at [https://sofiaje.github.io/](https://sofiaje.github.io/)
 
