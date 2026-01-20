@@ -10,7 +10,7 @@
 - 🌱 Learning **React, Next.js, Typescript**
 - 👨‍💻 All of my projects are available at [https://sofiaje.github.io/](https://sofiaje.github.io/)
 
-- 💬 How to reach me **sofia.jespersen@yh.nackademin.se**
+- 💬 How to reach me **sofiah.jespersen@gmail.com**
 
 </br>
 <h3 align="left">Languages and Tools:</h3>
