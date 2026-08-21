@@ -1,7 +1,7 @@
 <h2 align="left">Hi, I'm Sofia  👋</h1>
-<h3 align="left">A curious and communicative frontend developer who loves everything creative! </h3>
-<p>I am currently studying Frontend developing at Nackademin in Solna, a fun and exciting </br>
-  education where I can unleash my curiosity and passion for problem-solving.</p>
+<h3 align="left">A curious and communicative frontend developer with a passion for creativity and problem-solving </h3>
+<p>I recently graduated from Nackademin in Solna, where I developed my skills in frontend development and discovered a strong passion for creating engaging and user-friendly digital experiences. I enjoy learning new things, exploring creative ideas, and turning them into functional solutions.</p>
+
   
   > [View portfolio](https://sofiaje.github.io/)
 </br>
